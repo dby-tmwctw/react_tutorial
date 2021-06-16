@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_tutorial/static/css/main.4c737b91.chunk.css",
+    "main.js": "/react_tutorial/static/js/main.bcd973ad.chunk.js",
+    "main.js.map": "/react_tutorial/static/js/main.bcd973ad.chunk.js.map",
+    "runtime-main.js": "/react_tutorial/static/js/runtime-main.984c903b.js",
+    "runtime-main.js.map": "/react_tutorial/static/js/runtime-main.984c903b.js.map",
+    "static/js/2.226bb41b.chunk.js": "/react_tutorial/static/js/2.226bb41b.chunk.js",
+    "static/js/2.226bb41b.chunk.js.map": "/react_tutorial/static/js/2.226bb41b.chunk.js.map",
+    "index.html": "/react_tutorial/index.html",
+    "static/css/main.4c737b91.chunk.css.map": "/react_tutorial/static/css/main.4c737b91.chunk.css.map",
+    "static/js/2.226bb41b.chunk.js.LICENSE.txt": "/react_tutorial/static/js/2.226bb41b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.984c903b.js",
+    "static/js/2.226bb41b.chunk.js",
+    "static/css/main.4c737b91.chunk.css",
+    "static/js/main.bcd973ad.chunk.js"
+  ]
+}
